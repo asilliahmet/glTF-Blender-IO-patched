@@ -65,7 +65,8 @@ class glTFImporter():
             'KHR_materials_sheen',
             'KHR_materials_ior',
             'KHR_materials_volume',
-            'EXT_texture_webp'
+            'EXT_texture_webp',
+            'EXT_meshopt_compression',
         ]
 
         # Add extensions required supported by custom import extensions
